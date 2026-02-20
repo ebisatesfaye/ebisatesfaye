@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebisa Tesfaye</h1>
-<h3 align="center">Backend-Focused Software Engineering Student</h3>
+<h3 align="center">Backend-Specialized Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebisatesfaye&label=Profile%20views&color=0e75b6&style=flat" alt="ebisatesfaye" /> </p>
 
