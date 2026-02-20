@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Haramaya University Holistic Exam Management System](https://github.com/ebisatesfaye/HU_HEMS)
 
-- 🌱 I’m currently learning **React Native and Django**
+- 🌱 I’m currently learning **NextJs, React Native and Django**
 
 - 👯 I’m looking to collaborate on [Backend Projects](https://github.com/ebisatesfaye/CodeAlpha_Project-Management/tree/main/server)
 
