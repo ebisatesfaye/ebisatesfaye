@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://eng-ebisa-tesfaye.vercel.app/](https://eng-ebisa-tesfaye.vercel.app/)
 
-- ⚡ Fun fact **I find debugging satisfying — especially when the bug. hides in one missing semicolon.**
+- ⚡ Fun fact  **I find debugging satisfying — especially when the bug. hides in one missing semicolon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
